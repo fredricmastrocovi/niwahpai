@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeetilohwo.0quchen.de/sitemap.xml
